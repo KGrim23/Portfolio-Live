@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.avator{
+    width: 80px;
+    border-radius: 50%;
+    border: 4px solid #772be1;
+    margin-top: 10px;
+}
+
+.hero-text{
+    font-size: 1.3rem;
+}
+
+.tech-stack{
+    background: #59C173;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5D26C1, #a17fe0, #59C173);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.navbar-nav .btn{
+    background-image: linear-gradient( 135deg, #a4528e 10%, #3813C2 100%);
+}
+
+.row{
+    justify-content: center;
+}
+
+.project-img{
+    width: 200px;
+    height: 150px;
+    border: 4px solid rgb(17, 17, 144);
+    border-radius: 10px;
+}
+
+label{
+    font-size: 20px;
+}
+
+.footer-text{
+    font-size: 18px;
+}
+
+
+
+
+
+
+
